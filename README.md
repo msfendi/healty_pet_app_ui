@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is inspiring from Healty Pet App Figma Design
+Credits by : @Softwareseni (Arif Iskandar)
+Link Figma : https://www.figma.com/file/PISHbslZ5YYBySkaiKfyeG/Healthypet-%7C-%40softwareseni---Youtube-(Community)?type=design&node-id=1-19&mode=design
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/msfendi/healty_pet_app_ui/assets/50564515/7debf561-4ad4-4e4c-866e-d75939c00f0d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ui Apps :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-------------------
+
